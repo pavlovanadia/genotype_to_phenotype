@@ -1,9 +1,13 @@
 #!/usr/bin/env python3
 
+import os
 from ontobio.ontol_factory import OntologyFactory
 
-hpo = factory.create("hpo.json")
-mpo = factory.create("mpo.json")
+PATH_HPO = os.path.abspath("../ontologies/hpo.json")
+PATH_MPO = os.path.abspath("../ontologies/mpo.json")
+
+hpo = OntologyFactory().create(handle=PATH_HPO)
+mpo = OntologyFactory().create(handle=PATH_MPO)
 
 def replace_terms_by_level(terms, ontology_type, level_terms):
     """
