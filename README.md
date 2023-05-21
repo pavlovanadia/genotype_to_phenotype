@@ -66,6 +66,9 @@ We gathered a dataset containing orthologous genes and their connections to MPO 
 
 - 15 genes found to be associated with the same sets of systemic phenotypic terms in mice and humans are mostly related to vision phenotype, immune system, and nervous system and are significantly lower conserved and expressed in tissues in comparison to other 4169 genes that have phenotypic associations in both organisms.
 
+![](https://hackmd.io/_uploads/ByMkm6wB2.png)
+
+
 ![](https://hackmd.io/_uploads/SkGI1R8Hn.png)
 
 
@@ -93,4 +96,3 @@ Summarily, most genes exhibit pleiotropy, but highly pleiotropic genes are assoc
 [^7]: The Genotype-Tissue Expression (GTEx) Project was supported by the Common Fund of the Office of the Director of the National Institutes of Health, and by NCI, NHGRI, NHLBI, NIDA, NIMH, and NINDS. The data used for the analyses described in this manuscript were obtained from the GTEx Portal on 04/03/23.
 [^8]: Karczewski, K. J., et al. (2020). The mutational constraint spectrum quantified from variation in 141,456 humans. Nature, 581(7809), 434-443. doi: 10.1038/s41586-020-2308-7
 [^9]: Wu, T., Hu, E., Xu, S., Chen, M., Guo, P., Dai, Z., Feng, T., Zhou, L., Tang, W., Zhan, L., Fu, X., Liu, S., Bo, X., & Yu, G. (2021). "clusterProfiler 4.0: A universal enrichment tool for interpreting omics data." The Innovation, 2(3), 100141. doi: 10.1016/j.xinn.2021.100141.
-
