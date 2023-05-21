@@ -1,0 +1,109 @@
+tissue,count_gene,out
+Adipose - Subcutaneous,12,<Q1
+Adipose - Visceral (Omentum),10,<Q1
+Adrenal Gland,18,<Q1
+Artery - Aorta,18,<Q1
+Artery - Coronary,6,<Q1
+Artery - Tibial,16,<Q1
+Bladder,7,<Q1
+Brain - Amygdala,0,<Q1
+Brain - Anterior cingulate cortex (BA24),5,<Q1
+Brain - Caudate (basal ganglia),10,<Q1
+Brain - Cerebellar Hemisphere,65,<Q1
+Brain - Cerebellum,60,<Q1
+Brain - Cortex,6,<Q1
+Brain - Frontal Cortex (BA9),18,<Q1
+Brain - Hippocampus,0,<Q1
+Brain - Hypothalamus,13,<Q1
+Brain - Nucleus accumbens (basal ganglia),10,<Q1
+Brain - Putamen (basal ganglia),3,<Q1
+Brain - Spinal cord (cervical c-1),16,<Q1
+Brain - Substantia nigra,4,<Q1
+Breast - Mammary Tissue,4,<Q1
+Cells - Cultured fibroblasts,62,<Q1
+Cells - EBV-transformed lymphocytes,129,<Q1
+Cervix - Ectocervix,9,<Q1
+Cervix - Endocervix,13,<Q1
+Colon - Sigmoid,12,<Q1
+Colon - Transverse,24,<Q1
+Esophagus - Gastroesophageal Junction,3,<Q1
+Esophagus - Mucosa,25,<Q1
+Esophagus - Muscularis,5,<Q1
+Fallopian Tube,9,<Q1
+Heart - Atrial Appendage,18,<Q1
+Heart - Left Ventricle,16,<Q1
+Kidney - Cortex,27,<Q1
+Kidney - Medulla,31,<Q1
+Liver,48,<Q1
+Lung,42,<Q1
+Minor Salivary Gland,16,<Q1
+Muscle - Skeletal,31,<Q1
+Nerve - Tibial,28,<Q1
+Ovary,29,<Q1
+Pancreas,15,<Q1
+Pituitary,38,<Q1
+Prostate,12,<Q1
+Skin - Not Sun Exposed (Suprapubic),35,<Q1
+Skin - Sun Exposed (Lower leg),36,<Q1
+Small Intestine - Terminal Ileum,43,<Q1
+Spleen,69,<Q1
+Stomach,14,<Q1
+Testis,135,<Q1
+Thyroid,41,<Q1
+Uterus,12,<Q1
+Vagina,15,<Q1
+Whole Blood,54,<Q1
+Adipose - Subcutaneous,2144,Q1-max
+Adipose - Visceral (Omentum),2043,Q1-max
+Adrenal Gland,1756,Q1-max
+Artery - Aorta,2107,Q1-max
+Artery - Coronary,2147,Q1-max
+Artery - Tibial,2108,Q1-max
+Bladder,2144,Q1-max
+Brain - Amygdala,1181,Q1-max
+Brain - Anterior cingulate cortex (BA24),1340,Q1-max
+Brain - Caudate (basal ganglia),1365,Q1-max
+Brain - Cerebellar Hemisphere,1897,Q1-max
+Brain - Cerebellum,1911,Q1-max
+Brain - Cortex,1520,Q1-max
+Brain - Frontal Cortex (BA9),1560,Q1-max
+Brain - Hippocampus,1209,Q1-max
+Brain - Hypothalamus,1391,Q1-max
+Brain - Nucleus accumbens (basal ganglia),1368,Q1-max
+Brain - Putamen (basal ganglia),1186,Q1-max
+Brain - Spinal cord (cervical c-1),1531,Q1-max
+Brain - Substantia nigra,1240,Q1-max
+Breast - Mammary Tissue,2168,Q1-max
+Cells - Cultured fibroblasts,1998,Q1-max
+Cells - EBV-transformed lymphocytes,1688,Q1-max
+Cervix - Ectocervix,2255,Q1-max
+Cervix - Endocervix,2302,Q1-max
+Colon - Sigmoid,2050,Q1-max
+Colon - Transverse,1920,Q1-max
+Esophagus - Gastroesophageal Junction,2042,Q1-max
+Esophagus - Mucosa,1813,Q1-max
+Esophagus - Muscularis,2025,Q1-max
+Fallopian Tube,2252,Q1-max
+Heart - Atrial Appendage,1387,Q1-max
+Heart - Left Ventricle,1026,Q1-max
+Kidney - Cortex,1370,Q1-max
+Kidney - Medulla,1718,Q1-max
+Liver,1087,Q1-max
+Lung,2239,Q1-max
+Minor Salivary Gland,1956,Q1-max
+Muscle - Skeletal,1240,Q1-max
+Nerve - Tibial,2350,Q1-max
+Ovary,2132,Q1-max
+Pancreas,1002,Q1-max
+Pituitary,2012,Q1-max
+Prostate,2171,Q1-max
+Skin - Not Sun Exposed (Suprapubic),2006,Q1-max
+Skin - Sun Exposed (Lower leg),2063,Q1-max
+Small Intestine - Terminal Ileum,1992,Q1-max
+Spleen,1955,Q1-max
+Stomach,1697,Q1-max
+Testis,1941,Q1-max
+Thyroid,2259,Q1-max
+Uterus,2272,Q1-max
+Vagina,2221,Q1-max
+Whole Blood,955,Q1-max
