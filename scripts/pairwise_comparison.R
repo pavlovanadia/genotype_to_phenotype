@@ -13,7 +13,7 @@ library(stats)
 setwd("/path/to/your/working/directory")
 
 # Define the variables
-file_name <- "constraint.csv" # Specify your dataset name
+file_name <- "/intermediate_data/constraint.csv" # Specify your dataset name
 metric <- "oe_lof_upper" # Specify the metric column name
 group_var <- "pleiotropy_HPO" # Specify the grouping variable column name
 
