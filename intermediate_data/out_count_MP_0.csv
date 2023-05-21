@@ -1,0 +1,49 @@
+MP,out,gene_count
+adipose tissue phenotype,min-Q3,3.0
+behavior/neurological phenotype,min-Q3,157.0
+cardiovascular system phenotype,min-Q3,28.0
+cellular phenotype,min-Q3,22.0
+digestive/alimentary phenotype,min-Q3,6.0
+embryo phenotype,min-Q3,1.0
+endocrine/exocrine gland phenotype,min-Q3,4.0
+growth/size/body region phenotype,min-Q3,14.0
+hearing/vestibular/ear phenotype,min-Q3,16.0
+hematopoietic system phenotype,min-Q3,32.0
+homeostasis/metabolism phenotype,min-Q3,183.0
+immune system phenotype,min-Q3,23.0
+integument phenotype,min-Q3,23.0
+limbs/digits/tail phenotype,min-Q3,1.0
+liver/biliary system phenotype,min-Q3,2.0
+mortality/aging,min-Q3,131.0
+muscle phenotype,min-Q3,11.0
+neoplasm,min-Q3,4.0
+nervous system phenotype,min-Q3,72.0
+renal/urinary system phenotype,min-Q3,4.0
+reproductive system phenotype,min-Q3,62.0
+respiratory system phenotype,min-Q3,4.0
+skeleton phenotype,min-Q3,26.0
+vision/eye phenotype,min-Q3,56.0
+adipose tissue phenotype,>Q3,1.0
+behavior/neurological phenotype,>Q3,42.0
+cardiovascular system phenotype,>Q3,4.0
+cellular phenotype,>Q3,10.0
+digestive/alimentary phenotype,>Q3,
+embryo phenotype,>Q3,3.0
+endocrine/exocrine gland phenotype,>Q3,1.0
+growth/size/body region phenotype,>Q3,5.0
+hearing/vestibular/ear phenotype,>Q3,1.0
+hematopoietic system phenotype,>Q3,14.0
+homeostasis/metabolism phenotype,>Q3,33.0
+immune system phenotype,>Q3,
+integument phenotype,>Q3,3.0
+limbs/digits/tail phenotype,>Q3,
+liver/biliary system phenotype,>Q3,
+mortality/aging,>Q3,145.0
+muscle phenotype,>Q3,
+neoplasm,>Q3,
+nervous system phenotype,>Q3,10.0
+renal/urinary system phenotype,>Q3,
+reproductive system phenotype,>Q3,6.0
+respiratory system phenotype,>Q3,1.0
+skeleton phenotype,>Q3,6.0
+vision/eye phenotype,>Q3,4.0

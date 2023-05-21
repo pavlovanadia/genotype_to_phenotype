@@ -1,0 +1,37 @@
+HP,out,gene_count
+behavior/neurological phenotype,min-Q3,1.0
+cardiovascular system phenotype,min-Q3,14.0
+craniofacial phenotype,min-Q3,1.0
+embryo phenotype,min-Q3,1.0
+growth/size/body region phenotype,min-Q3,2.0
+hearing/vestibular/ear phenotype,min-Q3,47.0
+hematopoietic system phenotype,min-Q3,3.0
+homeostasis/metabolism phenotype,min-Q3,5.0
+immune system phenotype,min-Q3,2.0
+integument phenotype,min-Q3,10.0
+mortality/aging,min-Q3,1.0
+muscle phenotype,min-Q3,
+neoplasm,min-Q3,1.0
+nervous system phenotype,min-Q3,16.0
+renal/urinary system phenotype,min-Q3,3.0
+reproductive system phenotype,min-Q3,51.0
+skeleton phenotype,min-Q3,2.0
+vision/eye phenotype,min-Q3,47.0
+behavior/neurological phenotype,>Q3,
+cardiovascular system phenotype,>Q3,5.0
+craniofacial phenotype,>Q3,
+embryo phenotype,>Q3,
+growth/size/body region phenotype,>Q3,
+hearing/vestibular/ear phenotype,>Q3,12.0
+hematopoietic system phenotype,>Q3,8.0
+homeostasis/metabolism phenotype,>Q3,2.0
+immune system phenotype,>Q3,5.0
+integument phenotype,>Q3,2.0
+mortality/aging,>Q3,
+muscle phenotype,>Q3,1.0
+neoplasm,>Q3,1.0
+nervous system phenotype,>Q3,5.0
+renal/urinary system phenotype,>Q3,2.0
+reproductive system phenotype,>Q3,3.0
+skeleton phenotype,>Q3,1.0
+vision/eye phenotype,>Q3,22.0
