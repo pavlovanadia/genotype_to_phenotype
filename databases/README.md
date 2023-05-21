@@ -94,3 +94,14 @@ Structure and example:
 | **Gene** | **Transcript**  | **Observed missense** | **Expected missense** | **Observed over expected ratio** | **Mutation rate** | **...** | **pLI**    | **LOEUF** | **Z-score for missense**  |
 |----------|-----------------|-------------|-------------|------------|------------|---------|------------|------------------|------------|
 | MED13    | ENST00000397786 | 871         | 1.1178e+03  | 7.7921e-01 | 5.5598e-05 | ...     | 9.8429e+01 | 0.0000e+00       | 2.6232e+00 |
+
+* ## human_mouse_GPO.tsv ##
+
+Dataset consolidated for this project, based on other databases in this directory via dataset_consolidation.ipynb in scripts directory. Tab-delimited. 
+
+
+Structure and example:
+
+| **gene_human** | **entrez_id_human**  | **gene_mouse** | **MGI** | **MP_HMD** | **MP_PhenoGeno** | **HP_genes_to_phenotype** | **MP_system_level**    | **HP_system_level** | **MP_from_HP_system_level**  |
+|----------|-----------------|-------------|-------------|------------|------------|---------|------------|------------------|------------|
+| ABCA2    | 20 | Abca2         | MGI:99606  | MP:0005378,MP:0003631 | MP:0002574,MP:0001566 | HP:0002066,HP:0002311 | MP:0005378,MP:0003631 | HP:0001574,HP:0003011 | MP:0005390,MP:0003631 |
