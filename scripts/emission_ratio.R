@@ -7,6 +7,9 @@
 
 library(dplyr)
 
+# Set the working directory
+setwd("../intermediate_data")
+
 # Define the variables
 file_path <- "out_count_HP_0.csv" # Specify your dataset name
 count <- "gene_count" # Specify the count column name

@@ -4,6 +4,9 @@
 # Platform: x86_64-w64-mingw32/x64 (64-bit)
 # Running under: Windows 10 x64 (build 19044)
 
+# Set the working directory
+setwd("../intermediate_data")
+
 BiocManager::install(version = "3.14")
 BiocManager::install("clusterProfiler")
 BiocManager::install("org.Hs.eg.db")
