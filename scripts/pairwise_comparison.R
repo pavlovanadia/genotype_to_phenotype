@@ -1,6 +1,12 @@
 # The script performs a pairwise comparison of a numeric metric between groups 
 # using the Wilcoxon-Mann-Whitney test, with adjustment for multiple comparisons.
 
+# R version 4.1.2 (2021-11-01)
+# Platform: x86_64-w64-mingw32/x64 (64-bit)
+# Running under: Windows 10 x64 (build 19044)
+# OR
+# Running under: Ubuntu OS 22.04.1 LTS
+
 library(stats)
 
 # Set the working directory
