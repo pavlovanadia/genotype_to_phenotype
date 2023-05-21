@@ -1,6 +1,10 @@
 # This script calculates the ratio of outliers in a dataset relative to the 
 # remaining observations, and compares this ratio with the expected ratio of 1:3 
 
+# R version 4.1.2 (2021-11-01)
+# Platform: x86_64-w64-mingw32/x64 (64-bit)
+# Running under: Windows 10 x64 (build 19044)
+
 library(dplyr)
 
 # Define the variables

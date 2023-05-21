@@ -1,5 +1,9 @@
 # This script allows for GO term enrichment analysis in mouse and human
 
+# R version 4.1.2 (2021-11-01)
+# Platform: x86_64-w64-mingw32/x64 (64-bit)
+# Running under: Windows 10 x64 (build 19044)
+
 BiocManager::install(version = "3.14")
 BiocManager::install("clusterProfiler")
 BiocManager::install("org.Hs.eg.db")
@@ -59,6 +63,6 @@ ego
 write.csv(ego, file = paste0("ego_", animal, "_", group_pleiotropy, "_", ontol, ".csv"), row.names = FALSE)
 
 # Save the dotplot
-plot2 <- dotplot(ego, showCategory=15)
+plot <- dotplot(ego, showCategory=15)
 plot_name <- paste0(animal, "_dot_", group_pleiotropy, "_", ontol, ".png")
-ggsave(plot_name, plot2, dpi = 300, width = 10, height = 8)
+ggsave(plot_name, plot, dpi = 300, width = 10, height = 8)
