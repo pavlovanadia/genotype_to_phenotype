@@ -91,6 +91,7 @@ In summary, our comparison showed that most genes exhibit pleiotropy in both hum
 This project was implemented using Windows 10 x64 and Ubuntu 22.04.2 LTS.
 The code was developed utilizing Python 3.9.16 (VSCCC) and R 4.1.2 (2021-11-01) (RStudio).
 External libraries are utilized, so please upload the requirements.txt file to your virtual environment.
+Please note that ontobio library needs to reach restricted in some areas site during import, hence you will need Internet connection and VPN enabled for this script to work.
 
  
 ## References
