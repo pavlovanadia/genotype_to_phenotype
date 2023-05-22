@@ -1,0 +1,51 @@
+MP,out,gene_count
+adipose tissue phenotype,Q1-max,641
+behavior/neurological phenotype,Q1-max,1712
+cardiovascular system phenotype,Q1-max,1726
+cellular phenotype,Q1-max,1969
+craniofacial phenotype,Q1-max,918
+digestive/alimentary phenotype,Q1-max,941
+embryo phenotype,Q1-max,1165
+endocrine/exocrine gland phenotype,Q1-max,1435
+growth/size/body region phenotype,Q1-max,2553
+hearing/vestibular/ear phenotype,Q1-max,462
+hematopoietic system phenotype,Q1-max,1879
+homeostasis/metabolism phenotype,Q1-max,2238
+immune system phenotype,Q1-max,1890
+integument phenotype,Q1-max,1246
+limbs/digits/tail phenotype,Q1-max,757
+liver/biliary system phenotype,Q1-max,962
+mortality/aging,Q1-max,2381
+muscle phenotype,Q1-max,1002
+neoplasm,Q1-max,584
+nervous system phenotype,Q1-max,1780
+renal/urinary system phenotype,Q1-max,974
+reproductive system phenotype,Q1-max,1198
+respiratory system phenotype,Q1-max,933
+skeleton phenotype,Q1-max,1359
+vision/eye phenotype,Q1-max,1207
+adipose tissue phenotype,<Q1,199
+behavior/neurological phenotype,<Q1,542
+cardiovascular system phenotype,<Q1,511
+cellular phenotype,<Q1,611
+craniofacial phenotype,<Q1,295
+digestive/alimentary phenotype,<Q1,349
+embryo phenotype,<Q1,291
+endocrine/exocrine gland phenotype,<Q1,506
+growth/size/body region phenotype,<Q1,818
+hearing/vestibular/ear phenotype,<Q1,163
+hematopoietic system phenotype,<Q1,561
+homeostasis/metabolism phenotype,<Q1,691
+immune system phenotype,<Q1,590
+integument phenotype,<Q1,375
+limbs/digits/tail phenotype,<Q1,258
+liver/biliary system phenotype,<Q1,269
+mortality/aging,<Q1,707
+muscle phenotype,<Q1,260
+neoplasm,<Q1,173
+nervous system phenotype,<Q1,540
+renal/urinary system phenotype,<Q1,322
+reproductive system phenotype,<Q1,446
+respiratory system phenotype,<Q1,354
+skeleton phenotype,<Q1,489
+vision/eye phenotype,<Q1,392
