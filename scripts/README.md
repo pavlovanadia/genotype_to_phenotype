@@ -12,7 +12,7 @@ Jupiter notebook with analysis of phenotypes associated with orthologous genes i
 
 * ## [pleiotropy_analysis.ipynb](https://github.com/pavlovanadia/genotype_to_phenotype/blob/main/scripts/pleiotropy_analysis.ipynb)
 
-Jupiter notebook with pleiotropy analysis separately in mice and humans. Contains the calculation of descriptive statistics for HPO and MPO terms, the creation of graphs, and the formation of intermediate datasets.
+Jupiter notebook with pleiotropy analysis separately in mice and humans. Contains the calculation of descriptive statistics for HPO and MPO terms, the creation of plots, and the formation of intermediate datasets.
 
 * ## [low2system.py](https://github.com/pavlovanadia/genotype_to_phenotype/blob/main/scripts/low2system.py)
 
